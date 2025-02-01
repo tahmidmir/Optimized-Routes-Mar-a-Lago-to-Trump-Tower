@@ -31,7 +31,7 @@ jupyter notebook optimized-routes-mar-a-lago-to-trump-tower.ipynb
 
 ## 📬 Contact  
 If you have any suggestions or questions, feel free to reach out:  
-📧 **[mirtahmid[at]gmail[dot]com]**  
+📧 **[mirtahmid@gmail.com]**  
 🔗 **[https://github.com/tahmidmir/]**  
 
 ---
