@@ -30,10 +30,7 @@ jupyter notebook optimized-routes-mar-a-lago-to-trump-tower.ipynb
 3. **Data analysis** includes displaying the distances for each route.  
 
 ## 📬 Contact  
-If you have any suggestions or questions, feel free to reach out:  
-📧 **[mirtahmid@gmail.com]**  
-🔗 **[https://github.com/tahmidmir/]**  
 
----
+- If you have suggestions for improving the project, please submit a **Pull Request**.  
+- To report issues, please open an **Issue**.  
 
-This README is professional, well-structured, and user-friendly. If you need any further changes or customization, let me know. 🚀
