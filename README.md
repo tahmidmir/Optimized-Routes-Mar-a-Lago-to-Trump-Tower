@@ -1,10 +1,3 @@
-# Optimized-Routes-Mar-a-Lago-to-Trump-Tower
-To write a professional README, the first step is to understand what your code does. Let me take a look at your Jupyter Notebook file so I can create an excellent README for you based on its content. 🔍  
-
-Your Jupyter Notebook file focuses on analyzing optimized routes between **Mar-a-Lago** in Florida and **Trump Tower** in New York. It uses geographic data and visualization tools to display different routes and calculate distances. Based on this information, I’ll now write a professional README for you. 🚀  
-
----
-
 # 🗺 Optimized Routes: Mar-a-Lago to Trump Tower  
 
 ## 📌 Introduction  
